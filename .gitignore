@@ -1,0 +1,7 @@
+# Compiler Output
+*.o
+simulation
+
+# Sqlite3 Database
+simulation.db
+
